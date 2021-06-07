@@ -9,7 +9,7 @@ h3 {
 }
 @font-face {
   font-family: 'title font';
-  src: url('/fonts/华康龙门石碑W9\(P\).TTF');
+  src: url('fonts/华康龙门石碑W9\(P\).TTF');
 }
 
 #selected {
